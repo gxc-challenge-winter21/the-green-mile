@@ -1,7 +1,3 @@
-layout: page
-title: "Prototype"
-permalink:  https://gxc-challenge-winter21.github.io/the-green-mile/Prototype
-
 To bring our solution to the GlobalXChange-Challenge to life, we crafted a grafical prototype using [Figma](https://www.figma.com/), to present our ideas - for an app - solving the challenge. In the prototype our key features - the values we offer - are illustrated. All provided addresses, placed pictures, and any given information are more or less fictional. So, do not rely on the info displayed in the prototype...
 
 
