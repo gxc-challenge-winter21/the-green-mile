@@ -40,11 +40,10 @@ Creating a social network is cost intensive, where the costs for developing the 
 * Hamad Chaudry (Vienna)
 * Sarah Eden Mattitza (Munich HM)
 * Thomas Metzker (Munich HM)
-***
-***
 
 
 
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 # To be deleted
 ![doesnt work/1png](/FAB1png.png)
 
