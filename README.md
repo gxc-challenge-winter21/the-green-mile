@@ -50,6 +50,6 @@ Besides the weekly scheduled **lecture on Wednesdays from 05:00pm to 06:30pm CET
 Materials, like videos, slides, course information, and everything else provided by the lectureres can be found on the team's [deepdive](https://www.deepdive.school/path-player?courseid=gxcfall21&unit=gxcfall21_612cbbd28f744Unit) platform.
 
 For quicker information gathering some files provided on deepdive will be transfered to this repository and linked here on a wiki page.
-Therefore, further course information can be found in the provided [Course Syllabus](https://github.com/gxc-challenge-winter21/the-green-mile/blob/d411f7fb2f51987ed30f1dae4a7448461b7ab02d/Course_Syllabus.pdf)
+Therefore, further course information can be found in the provided [Course Syllabus](https://github.com/gxc-challenge-winter21/the-green-mile/blob/d411f7fb2f51987ed30f1dae4a7448461b7ab02d/Course_Syllabus.pdf).
 
 ***
