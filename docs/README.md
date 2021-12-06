@@ -41,6 +41,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 # Links
 [Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)  
+
 [GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
 * [Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)  
 * [Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
