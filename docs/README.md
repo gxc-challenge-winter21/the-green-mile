@@ -25,6 +25,9 @@ Depending on the scope the challenge giver wants to set on this feature, it can 
 
 Creating a social network is cost intensive, where the costs for developing the app are most likely the biggest investment upfront. Once set up, a social network needs constant maintenance and users ask for support, so the realization depends on the willingness to invest now AND in the future...  
 
+# Links
+[Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)</br>
+[GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
 
 # Team
 * Alperen Caygoez (Munich HM)
