@@ -1,5 +1,8 @@
+
 ![Welcome](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Welcome.png)
+
 ![Logo](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Logo_weiß.jpg)
+
 
 Welcome to the "Green Mile's - Fold a Bike" GitHub-Page!  
 Here you'll find a summary of the work done by Team 6 of the 2021 Global XChanges Challenges ([GXC](https://www.hm.edu/en/international/projects_1/gxc/index.en.html))
