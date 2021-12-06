@@ -19,9 +19,9 @@ Train running late?
 Trail obstacles on your trip to the mountains? 
 > Just pack the bike on your back and keep exploring. No need to stop for any occurrence.
 
-Take a pre-designed tour or create your own tour with our Plan-A-Trip-algorithm, meet and connect to other travelers, tourers and trippers and undergo a joint journey.  
-_Fold A Bike_ guarantees you the most comfortable and unruffled way to enjoy your experience.  
-Don't get stopped! Keep moving! Keep exploring!  
+Thanks to our Plan-A-Trip-algorithm, you can create your own tour or a choose from a pre-designed tour. Doing so, you can meet and connect to other travelers, tourers and trippers. Maybe you can undergo a joint journey all together! _Fold A Bike_ guarantees you the most comfortable and unruffled way to enjoy your experience. 
+
+<b>Don't get stopped! Keep moving! Keep exploring!</b>
 
 ![Billboard2](FAB2png.png)
 
