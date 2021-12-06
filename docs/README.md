@@ -5,8 +5,7 @@ Welcome to the "Green Mile's - Fold a Bike" GitHub-Page!
 Here you'll find a summary of the work done by Team 6 of the 2021 Global XChanges Challenges ([GXC](https://www.hm.edu/en/international/projects_1/gxc/index.en.html))
 Members of this team are students from the University of Applied Sciences in Munich and University of Applied Sciences in Vienna.
 
-![1954](FAB1png.png)
-
+![doesnt show](/FAB1.jpg)
 # What is Green Mile's Fold A Bike?
 *Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level. 
 In cooperation with the most trusted and ingenious folding bike manufacturer "BROMPTON BICYCLE", we provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses and cars or other public transport without additional charge and visit different monuments, cities or landscapes in the most comfortable and flexible way. Train running late? Just jump on your bike to reach your next stop. Trail obstacles on your trip to the mountains? Just pack the bike on your back and keep exploring. No need to stop for any occurrence.
@@ -14,7 +13,7 @@ Take a pre-designed tour or create your own tour with our Plan-A-Trip-algorithm,
 Fold-A-Bike guarantees you the most comfortable and unruffled way to enjoy your experience.  
 Don't get stopped! Keep moving! Keep exploring!  
 
-![1954](FAB2png.png)
+![working file](/FAB2.jpg)
 
 # Unique Selling Point
 A feature the fictional app contains, an extension to the folding bike challenge, is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows users to swipe (like/dislike) on Point-Of-Interests (POIs) and create a tour out of liked POIs. The challenge given connection of train and folding bikes, allows one to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape) up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
