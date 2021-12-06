@@ -1,11 +1,14 @@
 ![Welcome](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Welcome.png)
 ***
 <p align="center" font-size=728px>  
-  <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">
+  <b><a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">
     Interactive Prototype</a> |
   <a href="https://gxc-challenge-winter21.github.io/the-green-mile/">GitHub-Page</a> |
-  <a href="https://github.com/gxc-challenge-winter21/the-green-mile/wiki">GitHub-Wiki</a>  
+  <a href="https://github.com/gxc-challenge-winter21/the-green-mile/wiki">GitHub-Wiki</a>  </b>
+  
+  
 </p>
+
 
 ***
 
