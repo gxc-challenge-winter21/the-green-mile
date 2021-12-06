@@ -5,7 +5,7 @@ Welcome to the "Green Mile's - Fold a Bike" GitHub-Page!
 Here you'll find a summary of the work done by Team 6 of the 2021 Global XChanges Challenges ([GXC](https://www.hm.edu/en/international/projects_1/gxc/index.en.html))
 Members of this team are students from the University of Applied Sciences in Munich and University of Applied Sciences in Vienna.
 
-![1954](FAB1png.png)  
+![1954](FAB1png.png)
 
 # What is Green Mile's Fold A Bike?
 *Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level. 
