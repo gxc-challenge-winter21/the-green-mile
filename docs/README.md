@@ -5,7 +5,7 @@ Welcome to the "Green Mile's - Fold a Bike" GitHub-Page!
 Here you'll find a summary of the work done by Team 6 of the 2021 Global XChanges Challenges ([GXC](https://www.hm.edu/en/international/projects_1/gxc/index.en.html))
 Members of this team are students from the University of Applied Sciences in Munich and University of Applied Sciences in Vienna.
 
-![doesnt show](/FAB1png.png)
+![doesnt work](/FAB1png.png)
 # What is Green Mile's Fold A Bike?
 *Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level. 
 In cooperation with the most trusted and ingenious folding bike manufacturer "BROMPTON BICYCLE", we provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses and cars or other public transport without additional charge and visit different monuments, cities or landscapes in the most comfortable and flexible way. Train running late? Just jump on your bike to reach your next stop. Trail obstacles on your trip to the mountains? Just pack the bike on your back and keep exploring. No need to stop for any occurrence.
