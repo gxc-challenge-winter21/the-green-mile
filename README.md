@@ -5,8 +5,8 @@ Welcome to the "Green Mile's - Fold a Bike" GitHub!
 This repository was given to Team 6 of the 2021 Global XChanges Challenges ([GXC](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/GXC-International-Virtual-Innovation-Challenge)) held by the University of Apllied Sciences Munich and Deutsche Bahn Connect (challenge giver).  
 
 ## Quicklinks
-[Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype) around the solution.  
-[GitHub-Page](https://gxc-challenge-winter21.github.io/the-green-mile/)
+[Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)</br>  
+[GitHub-Page](https://gxc-challenge-winter21.github.io/the-green-mile/)</br>
 [GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
   
 # Team
