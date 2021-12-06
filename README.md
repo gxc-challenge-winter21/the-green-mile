@@ -1,26 +1,29 @@
 ![Welcome](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Welcome.png)
-![Logo](https://github.com/gxc-challenge-winter21/the-green-mile/blob/4b90cea40b36ffdaa4a4d4bdf9666eb98e30eb76/Logo_trans.jpg)
+***
+<p align="center" font-size=728px>  
+  <b>Links</b></br>
+  <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">
+    Interactive Prototype</a> |
+  <a href="https://gxc-challenge-winter21.github.io/the-green-mile/">GitHub-Page</a> |
+  <a href="https://github.com/gxc-challenge-winter21/the-green-mile/wiki">GitHub-Wiki</a>  
+</p>
+
+***
 
 Welcome to the _Green Mile's - Fold a Bike_ GitHub!  
 This repository was given to Team 6 of the 2021 [Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html), part of the [Global-X-Changes-Challenges](https://www.hm.edu/en/international/projects_1/gxc/index.en.html) ([GXC](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/GXC-International-Virtual-Innovation-Challenge)) held by the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and [Deutsche Bahn Connect](https://www.deutschebahnconnect.com/en).
-Members of this team are students from the University of Applied Sciences in Munich and [University of Applied Sciences in Vienna](https://www.fh-campuswien.ac.at/en/index.html). 
 
+![Logo](https://github.com/gxc-challenge-winter21/the-green-mile/blob/4b90cea40b36ffdaa4a4d4bdf9666eb98e30eb76/Logo_trans.jpg)
 
-## Quicklinks
-[Interactive Prototype](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)</br>
-[GitHub-Page](https://gxc-challenge-winter21.github.io/the-green-mile/)</br>
-[GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
-  
-# Team
-
-Members of this team are students from the Universities of Applied Sciences in Munich and Vienna.  
+***
+### <b>Team</b>
+All members of this team are either students from the University of Applied Sciences [Munich](https://www.hm.edu/en/index.en.html) or [Vienna](https://www.fh-campuswien.ac.at/en/index.html). 
 * Alperen Caygoez (Munich HM)
 * Atila Isa (Munich HM) 
 * Hamad Chaudry (Vienna)
 * Sarah Eden Mattitza (Munich HM)
 * Thomas Metzker (Munich HM)
-
-
+***
 ![Billboard](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/FAB1-2.jpg)  
 
 # What is Green Mile's Fold A Bike?
@@ -31,9 +34,8 @@ In cooperation with the most trusted and ingenious folding bike manufacturer "BR
 Take a pre-designed tour or create your own tour with our Plan-A-Trip-algorithm, meet and connect to other travelers, tourers and trippers and undergo a joint journey.  
 Fold-A-Bike guarantees you the most comfortable and unruffled way to enjoy your experience.  
 Don't get stopped! Keep moving! Keep exploring!  
-  
+***  
 ![Billboard2](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/FAB2.jpg)
-
 
 # General Info
 Besides the weekly scheduled **lecture on Wednesdays from 05:00pm to 06:30pm CET** on Zoom ([ID: 94441505232 PW: 162065](https://hm-edu.zoom.us/j/94441505232?pwd=RUFEdjVzRlQvb2ZvZWxWb3RLUVFtdz09)) the team is meant to meet once a week to bring together each's individual work and feedback to each other.
@@ -45,3 +47,4 @@ Therefore, further course information can be found in the provided [Course Sylla
 
 
 How might we improve the process of tripping for tourers and travellers in order to create a more seamless mobility experience.
+***
