@@ -20,7 +20,7 @@ Trail obstacles on your trip to the mountains?
 
 Thanks to our Plan-A-Trip-algorithm, you can create your own tour or a choose from a pre-designed tour. Doing so, you can meet and connect to other travelers, tourers and trippers. Maybe you can undergo a joint journey all together! _Fold A Bike_ guarantees you the most comfortable and unruffled way to enjoy your experience. 
 
-<b>Don't get stopped! Keep moving! Keep exploring!</b>
+## <b>Don't get stopped! Keep moving! Keep exploring!</b>
 
 ![Logo!](Logo_trans.jpg)
 
