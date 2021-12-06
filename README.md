@@ -2,7 +2,9 @@
 ![Logo](https://github.com/gxc-challenge-winter21/the-green-mile/blob/4b90cea40b36ffdaa4a4d4bdf9666eb98e30eb76/Logo_trans.jpg)
 
 Welcome to the _Green Mile's - Fold a Bike_ GitHub!  
-This repository was given to Team 6 of the 2021 Global-X-Changes-Challenges ([GXC](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/GXC-International-Virtual-Innovation-Challenge)) held by the [University of Apllied Sciences Munich](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html) and Deutsche Bahn Connect (challenge giver).  
+This repository was given to Team 6 of the 2021 [Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html), part of the [Global-X-Changes-Challenges](https://www.hm.edu/en/international/projects_1/gxc/index.en.html) ([GXC](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/GXC-International-Virtual-Innovation-Challenge)) held by the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and [Deutsche Bahn Connect](https://www.deutschebahnconnect.com/en).
+Members of this team are students from the University of Applied Sciences in Munich and [University of Applied Sciences in Vienna](https://www.fh-campuswien.ac.at/en/index.html). 
+
 
 ## Quicklinks
 [Interactive Prototype](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)</br>
