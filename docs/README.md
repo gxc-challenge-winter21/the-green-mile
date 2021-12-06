@@ -42,19 +42,19 @@ In the following diagram you can see an analysis of stakeholders connected to th
 # Links
 [Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)  
 [GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
->[Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)  
->[Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
->[Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
->[Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
+* [Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)  
+* [Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
+* [Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
+* [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
 
 
 
 # Team
-* Alperen Caygoez (Munich HM)
-* Atila Isa (Munich HM) 
-* Hamad Chaudry (Vienna)
-* Sarah Eden Mattitza (Munich HM)
-* Thomas Metzker (Munich HM)
+> Alperen Caygoez (Munich HM)  
+> Atila Isa (Munich HM)  
+> Hamad Chaudry (Vienna)  
+> Sarah Eden Mattitza (Munich HM)  
+> Thomas Metzker (Munich HM)  
   
  
   
