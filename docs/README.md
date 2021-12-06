@@ -1,7 +1,7 @@
 
 ![Welcome](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/Welcome.png?token=AO5K3FOJXHFEDZCEJ6R54TLBW6CSS)
 
-![Logo](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/docs/Logo_trans.jpg)
+![Logo](Logo_trans.jpg)
 
 
 Welcome to the "Green Mile's - Fold a Bike" GitHub-Page!  
