@@ -1,12 +1,11 @@
 ![Welcome](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/Welcome.png?token=AO5K3FOJXHFEDZCEJ6R54TLBW6CSS)
 
-
 Welcome to the _Green Mile's - Fold a Bike_ GitHub-Page!  
 
 Here you'll find a summary of the work done by Team 6 of the 2021 [Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html), part of the [Global-X-Changes-Challenges](https://www.hm.edu/en/international/projects_1/gxc/index.en.html) held by the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and [Deutsche Bahn Connect](https://www.deutschebahnconnect.com/en)(DB).
 Members of this team are students from the University of Applied Sciences in Munich or in [Vienna](https://www.fh-campuswien.ac.at/en/index.html). 
 
-![Logo!](Logo_trans.jpg)
+![Billboard2](FAB2png.png)
 
 # [What is Green Mile's Fold A Bike?]()
 *Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
@@ -23,7 +22,7 @@ Thanks to our Plan-A-Trip-algorithm, you can create your own tour or a choose fr
 
 <b>Don't get stopped! Keep moving! Keep exploring!</b>
 
-![Billboard2](FAB2png.png)
+![Logo!](Logo_trans.jpg)
 
 # [Unique Selling Point]()
 A feature the app contains is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows users to swipe (like/dislike) on Point-of-Interests (POIs) and create a tour out of liked POIs. The challenge given connection of train and folding bikes - allows one to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape) up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
