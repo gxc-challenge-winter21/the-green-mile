@@ -32,7 +32,10 @@ Creating a social network is cost intensive, where the costs for developing the 
 
 # Links
 [Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)  
-[GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
+[Prototype-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)
+
+[GitHub-Wiki-Home](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
+
 
 # Team
 * Alperen Caygoez (Munich HM)
