@@ -40,12 +40,12 @@ In the following diagram you can see an analysis of stakeholders connected to th
 ![](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StakeholderGM.png?token=AO5K3FPXWUYABVHTQR7EFGLBW665E)
 
 # Links
-[Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)</br>
+[Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)  
 [GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
->[Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)</br>
->[Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)</br>
->[Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)</br>
->[Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)
+>[Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)  
+>[Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
+>[Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
+>[Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
 
 
 
