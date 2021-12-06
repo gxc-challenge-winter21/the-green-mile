@@ -8,10 +8,10 @@ Members of this team are students from the University of Applied Sciences in Mun
 
 ![Logo!](Logo_trans.jpg)
 
-# What is Green Mile's Fold A Bike?
+# [What is Green Mile's Fold A Bike?]()
 *Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
 
-In cooperation with the most trusted and ingenious folding bike manufacturer [BROMPTON BICYCLE](https://www.brompton.com/), we provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses and cars or other public transport without additional charge and visit different monuments, cities or landscapes in the most comfortable and flexible way. 
+As indicate by the challenge giver; In a possible cooperation with the most trusted and ingenious folding bike manufacturer [BROMPTON BICYCLE](https://www.brompton.com/), we could provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses and cars or other public transport without additional charge and visit different monuments, cities or landscapes in the most comfortable and flexible way. 
 
 Train running late? 
  > Just jump on your bike to reach your next stop. 
@@ -25,7 +25,7 @@ Don't get stopped! Keep moving! Keep exploring!
 
 ![Billboard2](FAB2png.png)
 
-# Unique Selling Point
+# [Unique Selling Point]()
 A feature the app contains is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows users to swipe (like/dislike) on Point-of-Interests (POIs) and create a tour out of liked POIs. The challenge given connection of train and folding bikes - allows one to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape) up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
 
 ![Story of a tourist](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StoryBoard/Story_of_a_tourist.png?token=AO5K3FPDO3YHEBQLHPKRFWTBV533C)
@@ -39,13 +39,17 @@ Creating a social network is cost intensive, where the costs for developing the 
 
 ![Billboard1](FAB2png.png)
 
-# Stakeholder
+# [Stakeholder]()
 When ideating ideas for the given concept, it is imperative to analyse what and how many stakeholders there are involved. This is important because thinking about stakeholders is **essential for an organization to be effective, accountable, and ethical**. 
 
 Other questions to consider in stakeholder interactions include: 
 > To what degree do we integrate stakeholders into our decision making?  
+> 
 > Do we consider both the short- and long-term impacts of our actions on various stakeholder groups? What metrics do we use to track the well-being of our stakeholders?  
-> At what level in our organization are these metrics monitored and discussed? What channels do we have to give stakeholders a voice in the formation of our strategy and objectives?  > How willing are we to adapt our approaches and behaviors based on those perspectives?  
+> 
+> At what level in our organization are these metrics monitored and discussed? What channels do we have to give stakeholders a voice in the formation of our strategy and objectives? 
+>
+> How willing are we to adapt our approaches and behaviors based on those perspectives?  
 
 In the following diagram you can see an analysis of stakeholders connected to the Green Mile Project and how they interact i.e. what their expectations are.
 
