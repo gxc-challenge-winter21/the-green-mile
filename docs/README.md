@@ -18,22 +18,26 @@ Train running late?
 Trail obstacles on your trip to the mountains? 
 > Just pack the bike on your back and keep exploring. No need to stop for any occurrence.
 
-Thanks to our Plan-A-Trip-algorithm, you can create your own tour or a choose from a pre-designed tour. Doing so, you can meet and connect to other travelers, tourers and trippers. Maybe you can undergo a joint journey all together! _Fold A Bike_ guarantees you the most comfortable and unruffled way to enjoy your experience. 
+Thanks to our Plan-A-Trip-algorithm, you can create your own tour or a choose from a pre-designed tour. Doing so, you can meet and connect to other travelers, tourers and trippers. Maybe you can undergo a joint journey all together! 
+
+_Fold A Bike_ guarantees you the most comfortable and unruffled way to enjoy your experience. 
 
 ## <b>Don't get stopped! Keep moving! Keep exploring!</b>
 
 ![Logo!](Logo_trans.jpg)
 
 # [Unique Selling Point]()
-A feature the app contains is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows users to swipe (like/dislike) on Point-of-Interests (POIs) and create a tour out of liked POIs. The challenge given connection of train and folding bikes - allows one to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape) up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
+A feature the app contains is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows you to swipe (like/dislike) on Point-of-Interests (POIs) and create a tour out of liked POIs. 
+
+The challenge given connection of train and folding bikes - allows you to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape), up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
 
 ![Story of a tourist](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StoryBoard/Story_of_a_tourist.png?token=AO5K3FPDO3YHEBQLHPKRFWTBV533C)
 
 
 
-Depending on the scope the challenge giver wants to set on this feature, it can be extended to a complete social network (amongst folding bike enthusiats). Through this social network further revenue can be generated.  To gain from the network shops, restaurants,... basically any tourist attraction could be charged to be shown frequently in the swipe function or to provide any extra information about their business that they think may be rational. In this community users could interact as contributors. Contributors, who upload POIs or rate visited POIs for example.
+Depending on the scope the challenge giver wants to set on this feature, it can be extended to a complete social network (amongst folding bike enthusiats). Through this social network further revenue can be generated.  To gain from the network shops, restaurants,... basically any tourist attraction could be charged to be shown frequently in the swipe function or to provide any extra information about their business, that they think may be rational. In the created community, users could interact as contributors, who upload POIs or rate visited POIs for example.
 
-Creating a social network is cost intensive, where the costs for developing the app are most likely the biggest investment upfront. Once set up, a social network needs constant maintenance and users ask for support, so the realization depends on the willingness to invest now AND in the future.  
+Creating a social network is cost intensive, where the costs for developing the app are most likely the biggest investment upfront. Once set up, a social network needs constant maintenance and users ask for support. So, the realization depends on the willingness to invest now (upfront) AND in the future.  
 
 
 ![Billboard1](FAB2png.png)
