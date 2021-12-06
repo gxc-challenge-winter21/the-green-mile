@@ -30,11 +30,23 @@ Depending on the scope the challenge giver wants to set on this feature, it can 
 
 Creating a social network is cost intensive, where the costs for developing the app are most likely the biggest investment upfront. Once set up, a social network needs constant maintenance and users ask for support, so the realization depends on the willingness to invest now AND in the future...  
 
-# Links
-[Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)  
-[Prototype-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)
+# Stakeholder
+When ideating ideas for the given concept, it is imperative to analyse what and how many stakeholders there are involved. This is important because thinking about stakeholders is **essential for an organization to be effective, accountable, and ethical**. 
 
-[GitHub-Wiki-Home](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
+Other questions to consider in stakeholder interactions include: To what degree do we integrate stakeholders into our decision making? Do we consider both the short- and long-term impacts of our actions on various stakeholder groups? What metrics do we use to track the well-being of our stakeholders? At what level in our organization are these metrics monitored and discussed? What channels do we have to give stakeholders a voice in the formation of our strategy and objectives? How willing are we to adapt our approaches and behaviors based on those perspectives?
+
+In the following diagram you can see an analysis of stakeholders connected to the Green Mile Project and how they interact i.e. what their expectations are.
+
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StakeholderGM.png?token=AO5K3FPXWUYABVHTQR7EFGLBW665E)
+
+# Links
+[Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)</br>
+[GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
+>[Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)</br>
+>[Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)</br>
+>[Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)</br>
+>[Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)
+
 
 
 # Team
