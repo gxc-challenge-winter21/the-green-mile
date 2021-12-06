@@ -30,12 +30,16 @@ All members of this team are either students from the University of Applied Scie
 ![Billboard](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/FAB1-2.jpg)  
 
 # What is Green Mile's Fold A Bike?
-*Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.   
 
-In cooperation with the most trusted and ingenious folding bike manufacturer "BROMPTON BICYCLE", we provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses and cars or other public transport without additional charge and visit different monuments, cities or landscapes in the most comfortable and flexible way. Train running late? Just jump on your bike to reach your next stop. Trail obstacles on your trip to the mountains? Just pack the bike on your back and keep exploring. No need to stop for any occurrence.  
+We asked us: 
+> How might we improve the process of tripping for tourers and travellers in order to create a more seamless mobility experience?
 
-Take a pre-designed tour or create your own tour with our Plan-A-Trip-algorithm, meet and connect to other travelers, tourers and trippers and undergo a joint journey.  
-Fold-A-Bike guarantees you the most comfortable and unruffled way to enjoy your experience.  
+*Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for leisure trip, by getting rid of troublesome obstacles that would usually slow down or stop the tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology the adventures can be taken to the next level.   
+
+As indicate by the challenge giver; In a possible cooperation with the most trusted and ingenious folding bike manufacturer - [BROMPTON BICYCLE](https://www.brompton.com) - a perfectly tailored bike for the users every desire can provided. May it be a simple sightseeing tour to visit famous spots or a hiking trip into the beautiful german mountains,  hunger for exploration knows no boundaries - anymore. Simply carry and pack up a folding bike, take it on one of the DB trains, busses, or cars - without additional charge and visit different monuments, cities, or landscapes in the most comfortable and flexible way.
+
+Pre-designed tours or user created tours with our Plan-A-Trip-algorithm can connect to travelers, tourers and trippers, so they can undergo a joint journey.  
+_Fold a Bike_ wants to offer the most comfortable and unruffled way to have joyfull travel experience.  
 Don't get stopped! Keep moving! Keep exploring!  
 ***  
 ![Billboard2](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/FAB2.jpg)
@@ -48,6 +52,4 @@ Materials, like videos, slides, course information, and everything else provided
 For quicker information gathering some files provided on deepdive will be transfered to this repository and linked here on a wiki page.
 Therefore, further course information can be found in the provided [Course Syllabus](https://github.com/gxc-challenge-winter21/the-green-mile/blob/d411f7fb2f51987ed30f1dae4a7448461b7ab02d/Course_Syllabus.pdf)
 
-
-How might we improve the process of tripping for tourers and travellers in order to create a more seamless mobility experience.
 ***
