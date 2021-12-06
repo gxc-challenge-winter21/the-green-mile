@@ -1,7 +1,7 @@
 
 ![Welcome](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/Welcome.png?token=AO5K3FOJXHFEDZCEJ6R54TLBW6CSS)
 
-![Logo](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Logo_wei%C3%9F.jpg)
+![Logo](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/docs/Logo_trans.jpg)
 
 
 Welcome to the "Green Mile's - Fold a Bike" GitHub-Page!  
@@ -15,7 +15,7 @@ In cooperation with the most trusted and ingenious folding bike manufacturer "BR
 Take a pre-designed tour or create your own tour with our Plan-A-Trip-algorithm, meet and connect to other travelers, tourers and trippers and undergo a joint journey.  
 Fold-A-Bike guarantees you the most comfortable and unruffled way to enjoy your experience.  
 Don't get stopped! Keep moving! Keep exploring!  
-![Billboard2](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/FAB2.jpg)
+![Billboard2](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/docs/FAB1-2png.png)
 
 # Unique Selling Point
 A feature the fictional app contains, an extension to the folding bike challenge, is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows users to swipe (like/dislike) on Point-Of-Interests (POIs) and create a tour out of liked POIs. The challenge given connection of train and folding bikes, allows one to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape) up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
