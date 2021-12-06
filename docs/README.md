@@ -1,8 +1,8 @@
 ![Welcome](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/Welcome.png?token=AO5K3FOJXHFEDZCEJ6R54TLBW6CSS)
 
 
-Welcome to the "Green Mile's - Fold a Bike" GitHub-Page!  
-Here you'll find a summary of the work done by Team 6 of the 2021 Global XChanges Challenges ([GXC](https://www.hm.edu/en/international/projects_1/gxc/index.en.html))
+Welcome to the _Green Mile's - Fold a Bike_ GitHub-Page!  
+Here you'll find a summary of the work done by Team 6 of the 2021 GlobalXChanges Challenges ([GXC](https://www.hm.edu/en/international/projects_1/gxc/index.en.html))
 Members of this team are students from the University of Applied Sciences in Munich and University of Applied Sciences in Vienna. 
 
 ![Logo!](Logo_trans.jpg)
