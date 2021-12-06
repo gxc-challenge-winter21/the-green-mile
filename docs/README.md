@@ -20,7 +20,7 @@ Don't get stopped! Keep moving! Keep exploring!
 ![Billboard2](FAB2png.png)
 
 # Unique Selling Point
-A feature the fictional app contains, an extension to the folding bike challenge, is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows users to swipe (like/dislike) on Point-Of-Interests (POIs) and create a tour out of liked POIs. The challenge given connection of train and folding bikes, allows one to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape) up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
+A feature the app contains is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows users to swipe (like/dislike) on Point-Of-Interests (POIs) and create a tour out of liked POIs. The challenge given connection of train and folding bikes, allows one to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape) up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
 
 ![Story of a tourist](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StoryBoard/Story_of_a_tourist.png?token=AO5K3FPDO3YHEBQLHPKRFWTBV533C)
 
