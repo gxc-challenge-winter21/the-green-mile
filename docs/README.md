@@ -17,7 +17,7 @@ Take a pre-designed tour or create your own tour with our Plan-A-Trip-algorithm,
 Fold-A-Bike guarantees you the most comfortable and unruffled way to enjoy your experience.  
 Don't get stopped! Keep moving! Keep exploring!  
 
-![workjpg](FAB2png.png)
+![Billboard2](FAB2png.png)
 
 # Unique Selling Point
 A feature the fictional app contains, an extension to the folding bike challenge, is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows users to swipe (like/dislike) on Point-Of-Interests (POIs) and create a tour out of liked POIs. The challenge given connection of train and folding bikes, allows one to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape) up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
@@ -29,6 +29,9 @@ A feature the fictional app contains, an extension to the folding bike challenge
 Depending on the scope the challenge giver wants to set on this feature, it can be extended to a complete social network (amongst folding bike enthusiats). Through this social network further revenue can be generated.  To gain from the network shops, restaurants, basically any tourist attraction could be charged to be shown frequently in the swipe function or to provide any extra information about their business that they think may be rational. In this community users could interact as contributors. Contributors, who upload POIs or rate visited POIs for example.
 
 Creating a social network is cost intensive, where the costs for developing the app are most likely the biggest investment upfront. Once set up, a social network needs constant maintenance and users ask for support, so the realization depends on the willingness to invest now AND in the future...  
+
+
+![Billboard1](FAB2png.png)
 
 # Stakeholder
 When ideating ideas for the given concept, it is imperative to analyse what and how many stakeholders there are involved. This is important because thinking about stakeholders is **essential for an organization to be effective, accountable, and ethical**. 
