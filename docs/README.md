@@ -2,8 +2,8 @@
 
 
 Welcome to the _Green Mile's - Fold a Bike_ GitHub-Page!  
-Here you'll find a summary of the work done by Team 6 of the 2021 GlobalXChanges Challenges ([GXC](https://www.hm.edu/en/international/projects_1/gxc/index.en.html))
-Members of this team are students from the University of Applied Sciences in Munich and University of Applied Sciences in Vienna. 
+Here you'll find a summary of the work done by Team 6 of the 2021 [Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html), part of the [Global-X-Changes-Challenges](https://www.hm.edu/en/international/projects_1/gxc/index.en.html) held by the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and [Deutsche Bahn Connect](https://www.deutschebahnconnect.com/en).
+Members of this team are students from the University of Applied Sciences in Munich and [University of Applied Sciences in Vienna](https://www.fh-campuswien.ac.at/en/index.html). 
 
 ![Logo!](Logo_trans.jpg)
 
