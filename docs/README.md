@@ -8,7 +8,7 @@ Members of this team are students from the University of Applied Sciences in Mun
 ![Billboard2](FAB2png.png)
 
 # [What is Green Mile's Fold A Bike?]()
-*Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
+*Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
 
 As indicate by the challenge giver; In a possible cooperation with the most trusted and ingenious folding bike manufacturer - [BROMPTON BICYCLE](https://www.brompton.com/) - we could provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses, or cars - without additional charge and visit different monuments, cities, or landscapes in the most comfortable and flexible way. 
 
@@ -18,7 +18,7 @@ Train running late?
 Trail obstacles on your trip to the mountains? 
 > Just pack the bike on your back and keep exploring. No need to stop for any occurrence.
 
-Thanks to our Plan-A-Trip-algorithm, you can create your own tour or a choose from a pre-designed tour. Doing so, you can meet and connect to other travelers, tourers and trippers. Maybe you can undergo a joint journey all together!  
+Thanks to our Plan-A-Trip-algorithm, you can create your own tours or a choose from a pre-designed tours. Doing so, you can meet and connect to other travelers, tourers and trippers. Maybe you want to undergo a joint journey all together and compete in a challenge against each other!  
 
 _Fold A Bike_ wants to offer you the most comfortable and unruffled way to enjoy your experience. 
 
