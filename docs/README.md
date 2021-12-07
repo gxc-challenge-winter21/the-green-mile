@@ -27,7 +27,7 @@ _Fold A Bike_ wants to offer you the most comfortable and unruffled way to enjoy
 ![Logo!](Logo_trans.jpg)
 
 # [Unique Selling Point]()
-A feature the app contains is supposed to add a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with something of a travelguide app. This guide allows you to swipe (like/dislike) on Point-of-Interests (POIs) and create a tour out of liked POIs. 
+A feature the app contains is supposed to give you a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with special kind of a travelguide app. This guide allows you to swipe (like/dislike) on Point-of-Interests (POIs) and create a tour out of liked POIs. 
 
 The challenge given connection of train and folding bikes - allows you to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape), up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
 
