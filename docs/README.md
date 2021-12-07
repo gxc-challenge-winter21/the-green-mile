@@ -59,7 +59,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 ![](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StakeholderGM.png?token=AO5K3FPXWUYABVHTQR7EFGLBW665E)
 
 # Links
-[Interactive Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype#prototype-of-prototype)  
+[Interactive Prototype](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)  
 
 [GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
 * [Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)  
