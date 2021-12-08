@@ -59,7 +59,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 ![](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StakeholderGM.png?token=AO5K3FPXWUYABVHTQR7EFGLBW665E)
 
 # [Links]()
-[*Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain) - <sub>graphical prototype</sub>  
+[*Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)*   
 
 [GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
 * [Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)  
@@ -77,8 +77,11 @@ In the following diagram you can see an analysis of stakeholders connected to th
 > Sarah Eden Mattitza (Munich HM)  
 > Thomas Metzker (Munich HM)  
 
-[<sub>Top Of Page</sub>]() 
-  
+
+
+[<sub>Top Of Page</sub>]()
+
+<sub>*graphical prototype</sub>  
  
   
   
