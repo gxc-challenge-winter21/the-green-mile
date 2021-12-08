@@ -5,16 +5,7 @@ Welcome to the _Green Mile's - Fold a Bike_ GitHub-Page!
 Here you'll find a summary of the work done by Team 6 of the 2021 [Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html), part of the [Global-X-Changes-Challenges](https://www.hm.edu/en/international/projects_1/gxc/index.en.html) held by the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and [Deutsche Bahn Connect](https://www.deutschebahnconnect.com/en) (DB).
 Members of this team are students from the University of Applied Sciences in Munich or in [Vienna](https://www.fh-campuswien.ac.at/en/index.html). 
 
-# Important Links
-[Interactive Prototype](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)  
 
-[GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
-* [Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)  
-* [Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
-* [Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
-* [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
-
-![Billboard2](FAB2png.png)
 
 # [What is Green Mile's Fold A Bike?]()
 *Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
@@ -67,12 +58,26 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 ![](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StakeholderGM.png?token=AO5K3FPXWUYABVHTQR7EFGLBW665E)
 
+# [Links]()
+[Interactive Prototype](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)  
+
+[GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
+* [Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)  
+* [Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
+* [Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
+* [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
+
+![Billboard2](FAB2png.png)
+
+
 # Team
 > Alperen Caygoez (Munich HM)  
 > Atila Isa (Munich HM)  
 > Hamad Chaudry (Vienna)  
 > Sarah Eden Mattitza (Munich HM)  
 > Thomas Metzker (Munich HM)  
+
+[Top Of Page]()
   
  
   
