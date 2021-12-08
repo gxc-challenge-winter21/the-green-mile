@@ -77,7 +77,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 > Sarah Eden Mattitza (Munich HM)  
 > Thomas Metzker (Munich HM)  
 
-[Top Of Page]()
+[<p align=center><sub>Top Of Page</sub></p>]() 
   
  
   
