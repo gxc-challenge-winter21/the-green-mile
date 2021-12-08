@@ -31,7 +31,7 @@ A feature the app contains is supposed to give you a further unique attraction a
 
 The challenge given connection of train and folding bikes - allows you to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape), up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the app.  
 
-![Story of a tourist](/StoryBoard/Story_of_a_tourist.png)
+![Story of a tourist](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StoryBoard/Story_of_a_tourist.png?token=AO5K3FPXGDM2ZGOLSTNTVNTBXHS6Q)
 
 
 
