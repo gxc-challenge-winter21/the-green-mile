@@ -86,25 +86,4 @@ In the following diagram you can see an analysis of stakeholders connected to th
   
   
   
-  
-  
-  
-  
-# To be deleted
-![doesnt work/1png](/FAB1png.png)
-
-![doesnt work1png](FAB1png.png)
-
-![doesnt work/1jpg](/FAB1.jpg)
-
-![doesnt work1jpg](FAB1.jpg)
-
-![doesnt work1-2jpg](FAB1-2.jpg)
-
-![doesnt work/2png](/FAB2png.png)
-
-![doesnt work2png](FAB2png.png)
-
-![doesnt work/2jpg](/FAB2.jpg)
-
-![doesnt work2jpg](FAB2.jpg)
+ 
