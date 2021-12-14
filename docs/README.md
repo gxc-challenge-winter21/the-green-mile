@@ -1,11 +1,12 @@
 <a name="Top"></a><br><br><br>
 ![WelcomeIMG](Welcome.png)
-<p style="text-align:justify">
-Welcome to the <a href="#Links" style=" color:#2e8830"><i>Green Mile's - Fold a Bike </i></a> GitHub-Page!  
 
-Here you'll find a summary of the work done by Team 6 of the 2021 [Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html), part of the [Global-X-Changes-Challenges](https://www.hm.edu/en/international/projects_1/gxc/index.en.html) held by the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and [Deutsche Bahn Connect](https://www.deutschebahnconnect.com/en) (DB).
-Members of this team are students from the University of Applied Sciences in Munich or in [Vienna](https://www.fh-campuswien.ac.at/en/index.html). 
+Welcome to the <a href="#Links" style=" color:#2e8830"><i>Green Mile's - Fold a Bike </i></a> GitHub-Page! 
+<p text-align="justify">
+Here you'll find a summary of the work done by Team 6 of the 2021 <a href="https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html">Virtual Innovation Challenge</a>, part of the <a href="https://www.hm.edu/en/international/projects_1/gxc/index.en.html">Global-X-Changes-Challenges</a> held by the <a href="https://www.hm.edu/en/index.en.html">University of Applied Sciences Munich</a> and <a href="https://www.deutschebahnconnect.com/en">Deutsche Bahn Connect</a> (DB).
+Members of this team are students from the University of Applied Sciences in Munich or in <a href="https://www.fh-campuswien.ac.at/en/index.html">Vienna</a>. 
 </p>
+
 ![Billboard2](FAB2png.png)
 
 <p style="font-size:30px; color:gold  " align="left">What is Green Mile's Fold A Bike?</p>
