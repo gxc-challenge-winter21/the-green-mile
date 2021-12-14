@@ -1,4 +1,4 @@
-![Welcome](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/Welcome.png?token=AO5K3FOJXHFEDZCEJ6R54TLBW6CSS)
+![Welcome](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Images/Logos/Welcome.png)
 
 Welcome to the _[Green Mile's - Fold a Bike](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)_ GitHub-Page!  
 
@@ -31,7 +31,7 @@ A feature the [app](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bi
 
 The challenge given connection of train and folding bikes - allows you to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape), up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the [app](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain).  
 
-![Story of a tourist](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StoryBoard/Story_of_a_tourist.png?token=AO5K3FPXGDM2ZGOLSTNTVNTBXHS6Q)
+![Story of a tourist](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Images/StoryBoard/Story_of_a_tourist.png)
 
 
 
@@ -40,7 +40,7 @@ Depending on the scope the challenge giver wants to set on this feature, it can 
 Creating a social network is cost intensive, where the costs for developing the [app](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)  are most likely the biggest investment upfront. Once set up, a social network needs constant maintenance and users ask for support. So, the realization depends on the willingness to invest now (upfront) AND in the future.  
 
 
-![Billboard1](FAB2png.png)
+![Billboard1](FAB1png.png)
 
 # [Stakeholder]()
 When ideating ideas for the given concept, it is imperative to analyse what and how many stakeholders there are involved. This is important because thinking about stakeholders is **essential for an organization to be effective, accountable, and ethical**. 
@@ -56,7 +56,7 @@ Other questions to consider in stakeholder interactions include:
 
 In the following diagram you can see an analysis of stakeholders connected to the Green Mile Project and how they interact i.e. what their expectations are.
 
-![](https://raw.githubusercontent.com/gxc-challenge-winter21/the-green-mile/main/StakeholderGM.png?token=AO5K3FPXWUYABVHTQR7EFGLBW665E)
+![Stakeholder](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Images/StakeholderGM.png)
 
 # [Links]()
 [*Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)*   
