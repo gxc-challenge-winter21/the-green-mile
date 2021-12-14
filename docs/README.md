@@ -77,16 +77,16 @@ In the following diagram you can see an analysis of stakeholders connected to th
 * [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
 
 <p style="font-size:23px; color:gold  " align="right">Team </p>
-<hr style="height:1px;border-width:0;color:gold;background-color:gold;margin-top: 0.0em;"> 
+<hr style="height:1px;color:gold;background-color:gold;margin-top: 0.0em;"> 
 > Alperen Caygoez (Munich HM)  
 > Atila Isa (Munich HM)  
 > Hamad Chaudry (Vienna)  
 > Sarah Eden Mattitza (Munich HM)  
 > Thomas Metzker (Munich HM)  
 <br><br><br>
-<hr style="height:1px;border-width:0;color:gold;background-color:gold;margin-top: -1em;">
+<hr style="height:2px;border-width:0;color:gold;background-color:gold;">
 <p style="font-size:12px; color:#2e8830  " align="right">*graphical prototype</p>
-<hr style="height:1px;border-width:0;color:gold;background-color:gold;margin-top: -1em;">
+<hr style="height:1px;border-width:0;color:gold;background-color:gold;">
   
   
  
