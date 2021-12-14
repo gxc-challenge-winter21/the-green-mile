@@ -66,9 +66,13 @@ In the following diagram you can see an analysis of stakeholders connected to th
 <p style="font-size:23px; color:gold " align="right">Links </p>
 <hr style="height:2px;border-width:2;color:gold;background-color:gold;margin-top: -1.5em;margin-bottom: 0.5em;">
 
-**[Green Mile's Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)***
+<dl>
+  <dt><a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain" style="font-size:14px;margin-bottom:-0em;">Green Mile's Fold A Bike App</a>*</dt>
+</dl>
 
-**[Final Presentation](https://prezi.com/view/jzAOVwa7AzMY6xzARMBy/)**
+<dl>
+  <dt><a href="https://prezi.com/view/jzAOVwa7AzMY6xzARMBy/" style="font-size:14px;margin-bottom:-0em;">Final Presentation</a></dt>
+</dl>
 
 <dl>
   <dt><a href="https://github.com/gxc-challenge-winter21/the-green-mile/wiki" style="font-size:14px;margin-bottom:-0em;">GitHub-Wiki</a></dt>
