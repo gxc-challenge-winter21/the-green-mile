@@ -75,7 +75,9 @@ In the following diagram you can see an analysis of stakeholders connected to th
 * [Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
 * [Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
 * [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
-<br><p align="center"><a href="#Top" style="font-size:10px;"><b>Back to top of page</b></a></p><br>
+
+<p align="center"><a href="#Top" style="font-size:10px;"><b>Back to top of page</b></a></p>
+
 <p style="font-size:23px; color:#2e8830  " align="left">Team </p>
  
 > Alperen Caygoez (Munich HM)  
