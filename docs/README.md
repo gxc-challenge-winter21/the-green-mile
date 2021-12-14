@@ -64,8 +64,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 <a name="Links"></a><br><br>
 <p align="center"><a href="#Top" style="font-size:12px;">Back to top of page</a></p>
 <p style="font-size:23px; color:gold " align="right">Links </p>
-<hr>
-
+<hr style="height:1px;border-width:0;color:gold;background-color:gold;margin-top: -1em;">
 [*Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)*   
 
 [Final Presentation](https://prezi.com/view/jzAOVwa7AzMY6xzARMBy/)
@@ -77,17 +76,16 @@ In the following diagram you can see an analysis of stakeholders connected to th
 * [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
 
 <p style="font-size:23px; color:gold  " align="right">Team </p>
-<hr>
- 
+<hr style="height:1px;border-width:0;color:gold;background-color:gold;margin-top: -1em;"> 
 > Alperen Caygoez (Munich HM)  
 > Atila Isa (Munich HM)  
 > Hamad Chaudry (Vienna)  
 > Sarah Eden Mattitza (Munich HM)  
 > Thomas Metzker (Munich HM)  
-
-<hr>
+<br><br><br>
+<hr style="height:1px;border-width:0;color:gold;background-color:gold;margin-top: -1em;">
 <p style="font-size:12px; color:#2e8830  " align="right">*graphical prototype</p>
-<hr>
+<hr style="height:1px;border-width:0;color:gold;background-color:gold;margin-top: -1em;">
   
   
  
