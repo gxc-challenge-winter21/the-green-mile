@@ -1,5 +1,5 @@
 <a name="Top"></a><br><br><br>
-![WelcomeIMG](Welcome.png)
+<img src="Welcome.png">
 
 Welcome to the <a href="#Links" style=" color:#2e8830"><i>Green Mile's - Fold a Bike </i></a> GitHub-Page! 
 <p style="text-align:justify">
@@ -8,27 +8,34 @@ Members of this team are students from the University of Applied Sciences in Mun
 <br>
 <img src="FAB2png.png">
 <br>
-<p style="font-size:30px; color:gold  " align="left">What is Green Mile's Fold A Bike?</p>
+</p>
+
+<p style="font-size:30px; color:gold;text-align:justify  " align="left">What is Green Mile's Fold A Bike?</p>
 <br>
 <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">Green Mile's Fold A Bike App</a>* introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
 <br>
-As indicate by the challenge giver; In a possible cooperation with the most trusted and ingenious folding bike manufacturer - <a href=""></a>[BROMPTON BICYCLE](https://www.brompton.com/) - we could provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses, or cars - without additional charge and visit different monuments, cities, or landscapes in the most comfortable and flexible way. 
+As indicate by the challenge giver; In a possible cooperation with the most trusted and ingenious folding bike manufacturer - <a href="https://www.brompton.com/">BROMPTON BICYCLE</a> - we could provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses, or cars - without additional charge and visit different monuments, cities, or landscapes in the most comfortable and flexible way. 
 </p>
+
 Train running late? 
  > Just jump on your bike to reach your next stop. 
 
 Trail obstacles on your trip to the mountains? 
 > Just pack the bike on your back and keep exploring. No need to stop for any occurrence.
+
 <p style="text-align:justify">
 Thanks to our Plan-A-Trip-algorithm, you can create your own tours or choose one from pre-designed tours. Doing so, you can meet and connect to other travelers, tourers and trippers. Maybe you want to undergo a joint journey all together and compete in a challenge against each other!  
 <br>
 <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain"><i>Fold A Bike</i></a>* wants to offer you the most comfortable and unruffled way to enjoy your experience. 
-<br>
+<br></p>
+
 <p style="font-size:25px; color:#2e8830  " align="center"><b>Don't get stopped! Keep moving! Keep exploring!</b></p>
 <br>
 <img src="Logo_trans.jpg">
 <br>
 <p style="font-size:30px; color:gold  " align="left">Unique Selling Point</p>
+
+<p style="text-align:justify">
 <br>
 A feature the <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">app</a>* contains is supposed to give you a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with special kind of a travelguide app. This guide allows you to swipe (like/dislike) on Points-of-Interests (POIs) and create a tour out of liked POIs. 
 <br>
@@ -42,10 +49,14 @@ Creating a social network is cost intensive, where the costs for developing the 
 <br>
 <img src="FAB1png.png">
 <br>
+</p>
+
 <p style="font-size:30px; color:gold " align="left">Stakeholder</p>
+<p style="text-align:justify">
 <br>
 When ideating ideas for the given concept, it is imperative to analyse what and how many stakeholders there are involved. This is important because thinking about stakeholders is <b>essential for an organization to be effective, accountable, and ethical</b>. 
 </p>
+
 Other questions to consider in stakeholder interactions include: 
 > To what degree do we integrate stakeholders into our decision making?  
 > 
@@ -54,8 +65,9 @@ Other questions to consider in stakeholder interactions include:
 > At what level in our organization are these metrics monitored and discussed? What channels do we have to give stakeholders a voice in the formation of our strategy and objectives? 
 >
 > How willing are we to adapt our approaches and behaviors based on those perspectives?  
-
+<p style="text-align:justify">
 In the following diagram you can see an analysis of stakeholders connected to the Green Mile Project and how they interact i.e. what their expectations are.
+</p>
 
 <img src="StakeholderGM.png">
 
