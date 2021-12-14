@@ -62,10 +62,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 # [Links]()
 
-<p style="font-size:7px; color:ForestGreen  " align="left">Links/p>  
-<br>
- 
-
+<p style="font-size:7px; color:ForestGreen  " align="left">Links </p>  
 
 [*Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)*   
 
@@ -82,7 +79,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 # Team
  
-<p style="font-size:7px; color:Gold " align="left">Team/p>
+<p style="font-size:7px; color:Gold " align="left">Team </p>
  
 > Alperen Caygoez (Munich HM)  
 > Atila Isa (Munich HM)  
