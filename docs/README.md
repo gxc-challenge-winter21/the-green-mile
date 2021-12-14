@@ -1,4 +1,4 @@
-![Welcome](Welcome.png)
+![WelcomeIMG](Welcome.png)
 
 Welcome to the _[Green Mile's - Fold a Bike](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)_ GitHub-Page!  
 
