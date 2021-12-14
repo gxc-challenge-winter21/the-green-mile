@@ -86,7 +86,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 <h6 align="right"><sub>*graphical prototype</sub> </h6>
 
 
-<p style="font-size:6px; color:GoldenRod; align:right">*graphical prototype</p>
+<p style="font-size:8px; color:LightGrey; align:right">*graphical prototype</p>
   
   
  
