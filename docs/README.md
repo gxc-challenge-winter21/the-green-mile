@@ -84,9 +84,11 @@ In the following diagram you can see an analysis of stakeholders connected to th
 > Sarah Eden Mattitza (Munich HM)  
 > Thomas Metzker (Munich HM)  
 <br><br><br>
-<hr style="height:2px;border-width:1;color:gold;background-color:gold;">
+
 <p style="font-size:12px; color:#2e8830  " align="right">*graphical prototype</p>
-<hr style="height:1px;border-width:2;color:gold;background-color:gold;">
-  
+
+<hr style="height:1px;border-width:1;color:gold;background-color:red;">
+<hr style="height:2px;border-width:2;color:green;background-color:gold;">
+<hr style="height:3px;border-width:3;color:gold;background-color:gold;">
   
  
