@@ -70,7 +70,8 @@ In the following diagram you can see an analysis of stakeholders connected to th
 [Final Presentation](https://prezi.com/view/jzAOVwa7AzMY6xzARMBy/)
 
 [GitHub-Wiki](https://github.com/gxc-challenge-winter21/the-green-mile/wiki)
-<a href="https://github.com/gxc-challenge-winter21/the-green-mile/wiki" style="font-size:14px;margin-bottom: -1em;">GitHub-Wiki</a>
+
+<a href="https://github.com/gxc-challenge-winter21/the-green-mile/wiki" style="font-size:14px;margin-bottom: -3em;">GitHub-Wiki</a>
 * [Prototype](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Prototype)  
 * [Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
 * [Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
