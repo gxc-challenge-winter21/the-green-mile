@@ -66,7 +66,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 <p style="font-size:23px; color:gold " align="right">Links </p>
 <hr style="height:2px;border-width:2;color:gold;background-color:gold;margin-top: -1.5em;margin-bottom: 0.5em;">
 
-**[Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)**
+**[Green Mile's Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)***
 
 **[Final Presentation](https://prezi.com/view/jzAOVwa7AzMY6xzARMBy/)**
 
