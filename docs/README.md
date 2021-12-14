@@ -73,7 +73,6 @@ In the following diagram you can see an analysis of stakeholders connected to th
 * [Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
 * [Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
 * [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
-
 <br><br>
 <p style="font-size:23px; color:#79c46d  " align="left">Team </p>
  
