@@ -67,6 +67,8 @@ In the following diagram you can see an analysis of stakeholders connected to th
 * [Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
 * [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
 
+[Final Presentation](https://prezi.com/view/jzAOVwa7AzMY6xzARMBy/)
+
 
 
 
