@@ -23,11 +23,12 @@ Train running late?
 Trail obstacles on your trip to the mountains? 
 > Just pack the bike on your back and keep exploring. No need to stop for any occurrence.
 
+
 <p style="text-align:justify">
 Thanks to our Plan-A-Trip-algorithm, you can create your own tours or choose one from pre-designed tours. Doing so, you can meet and connect to other travelers, tourers and trippers. Maybe you want to undergo a joint journey all together and compete in a challenge against each other!  
 <br><br>
 <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain"><i>Fold A Bike</i></a>* wants to offer you the most comfortable and unruffled way to enjoy your experience. 
-<br><br></p>
+</p><br>
 
 <p style="font-size:25px; color:#2e8830  " align="center"><b>Don't get stopped! Keep moving! Keep exploring!</b></p>
 <img src="Logo_trans.jpg">
