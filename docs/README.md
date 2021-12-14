@@ -62,7 +62,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 ![Stakeholder](StakeholderGM.png)
 
 <a name="Links"></a><br><br>
-<p align="center"><a href="#Top" style="font-size:10px;">Back to top of page</a></p>
+<p align="center"><a href="#Top" style="font-size:12px;">Back to top of page</a></p>
 <p style="font-size:23px; color:#2e8830  " align="left">Links </p>  
 
 [*Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)*   
@@ -74,8 +74,6 @@ In the following diagram you can see an analysis of stakeholders connected to th
 * [Business Model Canvas](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Business-Model-Canvas)  
 * [Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
 * [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
-
-<p align="center"><a href="#Top" style="font-size:10px;"><b>Back to top of page</b></a></p>
 
 <p style="font-size:23px; color:#2e8830  " align="left">Team </p>
  
