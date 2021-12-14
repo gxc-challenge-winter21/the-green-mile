@@ -29,7 +29,7 @@ _[Fold A Bike*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-b
 
 <p style="font-size:30px; color:gold  " align="left">Unique Selling Point</p>
 
-A feature the [app*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)  contains is supposed to give you a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with special kind of a travelguide app. This guide allows you to swipe (like/dislike) on Point-of-Interests (POIs) and create a tour out of liked POIs. 
+A feature the [app*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)  contains is supposed to give you a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with special kind of a travelguide app. This guide allows you to swipe (like/dislike) on Points-of-Interests (POIs) and create a tour out of liked POIs. 
 
 The challenge given connection of train and folding bikes - allows you to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape), up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the [app*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain).  
 
