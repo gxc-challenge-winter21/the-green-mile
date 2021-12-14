@@ -23,7 +23,7 @@ Thanks to our Plan-A-Trip-algorithm, you can create your own tours or choose one
 
 _[Fold A Bike*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)_ wants to offer you the most comfortable and unruffled way to enjoy your experience. 
 
-## <b>Don't get stopped! Keep moving! Keep exploring!</b>
+<p style="font-size:23px; color:#2e8830  " align="left"><b>Don't get stopped! Keep moving! Keep exploring!</b></p>
 
 ![Logo!](Logo_trans.jpg)
 
