@@ -31,7 +31,7 @@ All members of this team are either students from the University of Applied Scie
 
 # What is Green Mile's Fold A Bike?
 
-We asked us: 
+We asked ourselves: 
 > How might we improve the process of tripping for tourers and travellers in order to create a more seamless mobility experience?
 
 *Green Mile's* Fold A Bike App introduces the new and innovative way of traveling and adventuring for leisure trip, by getting rid of troublesome obstacles that would usually slow down or stop the tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology the adventures can be taken to the next level.   
