@@ -43,7 +43,7 @@ Creating a social network is cost intensive, where the costs for developing the 
 ![Billboard1](FAB1png.png)
 
 # [Stakeholder]()
-<p style="font-size:36px; color:gold" align="left">Stakeholder</p>
+<p style="font-size:27px; color:ForestGreen " align="left">Stakeholder</p>
 
 When ideating ideas for the given concept, it is imperative to analyse what and how many stakeholders there are involved. This is important because thinking about stakeholders is **essential for an organization to be effective, accountable, and ethical**. 
 
@@ -62,7 +62,8 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 # [Links]()
 
-<p style="font-size:7px; color:Gold " align="left">Links/p>
+<p style="font-size:7px; color:ForestGreen  " align="left">Links/p>  
+<br>
  
 
 
