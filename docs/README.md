@@ -1,3 +1,4 @@
+<a name="Top"></a><br><br>
 ![WelcomeIMG](Welcome.png)
 
 Welcome to the <a href="#Links"><i>Green Mile's - Fold a Bike</i></a> GitHub-Page!  
@@ -62,7 +63,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 ![Stakeholder](StakeholderGM.png)
 
 <a name="Links"></a><br><br>
-<p align="center"><a href="https://gxc-challenge-winter21.github.io/the-green-mile/" style="font-size:10px;">Back to top of page</a></p>
+<p align="center"><a href="#Top" style="font-size:10px;">Back to top of page</a></p>
 <p style="font-size:23px; color:#79c46d  " align="left">Links </p>  
 
 [*Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)*   
