@@ -11,7 +11,7 @@ Members of this team are students from the University of Applied Sciences in Mun
 
 <p style="font-size:30px; color:gold  " align="left">What is Green Mile's Fold A Bike?</p>
 
-<a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">*Green Mile's Fold A Bike App</a>* introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
+<a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">*Green Mile's Fold A Bike App</a> * introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
 
 As indicate by the challenge giver; In a possible cooperation with the most trusted and ingenious folding bike manufacturer - <a href=""></a>[BROMPTON BICYCLE](https://www.brompton.com/) - we could provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses, or cars - without additional charge and visit different monuments, cities, or landscapes in the most comfortable and flexible way. 
 
@@ -26,7 +26,8 @@ Thanks to our Plan-A-Trip-algorithm, you can create your own tours or choose one
 <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain"><i>Fold A Bike</i></a>* wants to offer you the most comfortable and unruffled way to enjoy your experience. 
 
 <p style="font-size:25px; color:#2e8830  " align="center"><b>Don't get stopped! Keep moving! Keep exploring!</b></p>
-![Logo!](Logo_trans.jpg)
+
+<img src="Logo_trans.jpg">
 
 <p style="font-size:30px; color:gold  " align="left">Unique Selling Point</p>
 
@@ -34,16 +35,13 @@ A feature the <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a
 
 The challenge given connection of train and folding bikes - allows you to scale those tours as wished. Tours can reach from city trips (including or excluding the sourrounding area/landscape), up to full grown adventures, in which the complete country can be easily explored - with a just created tour in the <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">app</a>*.  
 
-![Story of a tourist](Story_of_a_tourist.png)
-
-
+<img src="Story_of_a_tourist.png">
 
 Depending on the scope the challenge giver wants to set on this feature, it can be extended to a complete social network (amongst folding bike enthusiats). Through this social network further revenue can be generated.  To gain from the network shops, restaurants,... basically any tourist attraction could be charged to be shown frequently in the swipe function or to provide any extra information about their business, that they think may be rational. In the created community, users could interact as contributors, who upload POIs or rate visited POIs for example.
 
 Creating a social network is cost intensive, where the costs for developing the <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">app</a>* are most likely the biggest investment upfront. Once set up, a social network needs constant maintenance and users ask for support. So, the realization depends on the willingness to invest now (upfront) AND in the future.  
 
-
-![Billboard1](FAB1png.png)
+<img src="FAB1png.png">
 
 <p style="font-size:30px; color:gold " align="left">Stakeholder</p>
 
@@ -60,7 +58,7 @@ Other questions to consider in stakeholder interactions include:
 
 In the following diagram you can see an analysis of stakeholders connected to the Green Mile Project and how they interact i.e. what their expectations are.
 
-![Stakeholder](StakeholderGM.png)
+<img src="StakeholderGM.png">
 
 <a name="Links"></a><br><br>
 <p align="center"><a href="#Top" style="font-size:12px;">Back to top of page</a></p>
