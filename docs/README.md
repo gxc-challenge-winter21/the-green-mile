@@ -5,7 +5,7 @@ Welcome to the <a href="#Links" style=" color:#2e8830"><i>Green Mile's - Fold a 
 
 Here you'll find a summary of the work done by Team 6 of the 2021 [Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html), part of the [Global-X-Changes-Challenges](https://www.hm.edu/en/international/projects_1/gxc/index.en.html) held by the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and [Deutsche Bahn Connect](https://www.deutschebahnconnect.com/en) (DB).
 Members of this team are students from the University of Applied Sciences in Munich or in [Vienna](https://www.fh-campuswien.ac.at/en/index.html). 
-
+</p>
 ![Billboard2](FAB2png.png)
 
 <p style="font-size:30px; color:gold  " align="left">What is Green Mile's Fold A Bike?</p>
@@ -92,7 +92,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 > Thomas Metzker (Munich HM)  
 
 <br>
-<p style="font-size:12px; color:#2e8830  " align="right">*graphical prototype</p></p>
+<p style="font-size:12px; color:#2e8830  " align="right">*graphical prototype</p>
 
   
  
