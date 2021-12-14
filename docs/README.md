@@ -8,9 +8,10 @@ Members of this team are students from the University of Applied Sciences in Mun
 </p>
 
 <img src="FAB2png.png">
+
 <p style="font-size:30px; color:gold  " align="left">What is Green Mile's Fold A Bike?</p>
 
-<a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">*Green Mile's* Fold A Bike App*> introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
+<a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">*Green Mile's Fold A Bike App</a>* introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
 
 As indicate by the challenge giver; In a possible cooperation with the most trusted and ingenious folding bike manufacturer - <a href=""></a>[BROMPTON BICYCLE](https://www.brompton.com/) - we could provide you the perfectly tailored bike for your every desire. May it be a simple sightseeing tour to visit your favorite spots or a hiking trip into the beautiful german mountains, your hunger for exploration knows no boundaries anymore. Simply carry and pack up your folding bike, take it on one of our DB trains, busses, or cars - without additional charge and visit different monuments, cities, or landscapes in the most comfortable and flexible way. 
 
