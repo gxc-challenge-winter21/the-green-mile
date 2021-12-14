@@ -83,7 +83,19 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 [<sub>Top Of Page</sub>]()
 
-<small align="right">  <sub>*graphical prototype</sub>  </small>
+<small align="center">  <sub>*graphical prototype</sub>  </small>
+
+<h1 align="center">*graphical prototype</h1>
+
+<h2 align="center">*graphical prototype</h2>
+
+<h3 align="center">*graphical prototype</h3>
+
+<p align="center">
+
+ *graphical prototype
+
+</p>
  
   
   
