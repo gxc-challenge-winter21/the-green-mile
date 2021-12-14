@@ -85,7 +85,9 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 
 [<sub>Top Of Page</sub>]()
-<a href="#top" style="font-size:10px;" align="center">Back to top of page</a>
+
+<a href="https://gxc-challenge-winter21.github.io/the-green-mile/" style="font-size:10px;" align="center">Back to top of page</a>
+
 <p style="font-size:8px; color:#79c46d  " align="right">*graphical prototype</p>
   
   
