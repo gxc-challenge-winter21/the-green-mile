@@ -1,4 +1,4 @@
-![Welcome](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Welcome.png)
+![Welcome](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Images/Logos/Welcome.png)
 ***
 <p align="center" font-size=728px>  
   <b><a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">
@@ -19,7 +19,7 @@ Welcome to the _Green Mile's - Fold a Bike_ GitHub!
 
 This repository was given to Team 6 of the 2021 [Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html), part of the [Global-X-Changes-Challenges](https://www.hm.edu/en/international/projects_1/gxc/index.en.html) ([GXC](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/GXC-International-Virtual-Innovation-Challenge)) held by the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and [Deutsche Bahn Connect](https://www.deutschebahnconnect.com/en).
 
-![Logo](https://github.com/gxc-challenge-winter21/the-green-mile/blob/4b90cea40b36ffdaa4a4d4bdf9666eb98e30eb76/Logo_trans.jpg)
+![Logo](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Images/Logos/Logo_trans.jpg)
 
 ***
 ### <b>Team</b>
@@ -30,7 +30,7 @@ All members of this team are either students from the University of Applied Scie
 * Sarah Eden Mattitza (Munich HM)
 * Thomas Metzker (Munich HM)
 ***
-![Billboard](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/FAB1-2.jpg)  
+![Billboard](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Images/FAB1-2.jpg)  
 
 # What is Green Mile's Fold A Bike?
 
@@ -45,7 +45,7 @@ Pre-designed tours or user created tours with our Plan-A-Trip-algorithm can conn
 _Fold a Bike_ wants to offer the most comfortable and unruffled way to have joyfull travel experience.  
 Don't get stopped! Keep moving! Keep exploring!  
 ***  
-![Billboard2](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/FAB2.jpg)
+![Billboard2](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Images/FAB2.jpg)
 
 # General Info
 Besides the weekly scheduled **lecture on Wednesdays from 05:00pm to 06:30pm CET** on Zoom ([ID: 94441505232 PW: 162065](https://hm-edu.zoom.us/j/94441505232?pwd=RUFEdjVzRlQvb2ZvZWxWb3RLUVFtdz09)) the team is meant to meet once a week to bring together each's individual work and feedback to each other.
