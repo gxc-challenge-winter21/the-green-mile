@@ -1,6 +1,6 @@
 ![WelcomeIMG](Welcome.png)
 
-Welcome to the _[Green Mile's - Fold a Bike](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)_ GitHub-Page!  
+Welcome to the <a href="#Links">Green Mile's - Fold a Bike</a> _[Green Mile's - Fold a Bike](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)_ GitHub-Page!  
 
 Here you'll find a summary of the work done by Team 6 of the 2021 [Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html), part of the [Global-X-Changes-Challenges](https://www.hm.edu/en/international/projects_1/gxc/index.en.html) held by the [University of Applied Sciences Munich](https://www.hm.edu/en/index.en.html) and [Deutsche Bahn Connect](https://www.deutschebahnconnect.com/en) (DB).
 Members of this team are students from the University of Applied Sciences in Munich or in [Vienna](https://www.fh-campuswien.ac.at/en/index.html). 
@@ -61,7 +61,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 ![Stakeholder](StakeholderGM.png)
 
-<a name="Links"></<>
+<a name="Links"></a>
 <p style="font-size:23px; color:#79c46d  " align="left">Links </p>  
 
 [*Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)*   
