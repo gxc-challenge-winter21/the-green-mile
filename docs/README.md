@@ -10,7 +10,8 @@ Members of this team are students from the University of Applied Sciences in Mun
 <br>
 </p>
 
-<p style="font-size:30px; color:gold;text-align:justify  " align="left">What is Green Mile's Fold A Bike?</p>
+<p style="font-size:30px; color:gold;" align="left">What is Green Mile's Fold A Bike?</p>
+<p style="text-align:justify">
 <br>
 <a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain">Green Mile's Fold A Bike App</a>* introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
 <br>
