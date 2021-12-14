@@ -1,4 +1,4 @@
-<a name="Top"></a><br><br>
+<a name="Top"></a><br><br><br>
 ![WelcomeIMG](Welcome.png)
 
 Welcome to the <a href="#Links" style=" color:#2e8830"><i>Green Mile's - Fold a Bike </i></a> GitHub-Page!  
@@ -8,7 +8,7 @@ Members of this team are students from the University of Applied Sciences in Mun
 
 ![Billboard2](FAB2png.png)
 
-<p style="font-size:30px; color:#2e8830  " align="left">What is Green Mile's Fold A Bike?</p>
+<p style="font-size:30px; color:gold  " align="left">What is Green Mile's Fold A Bike?</p>
 
 [*Green Mile's* Fold A Bike App*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain) introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
 
@@ -27,7 +27,7 @@ _[Fold A Bike*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-b
 <p style="font-size:25px; color:#2e8830  " align="center"><b>Don't get stopped! Keep moving! Keep exploring!</b></p>
 ![Logo!](Logo_trans.jpg)
 
-<p style="font-size:30px; color:#2e8830  " align="left">Unique Selling Point</p>
+<p style="font-size:30px; color:gold  " align="left">Unique Selling Point</p>
 
 A feature the [app*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)  contains is supposed to give you a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with special kind of a travelguide app. This guide allows you to swipe (like/dislike) on Point-of-Interests (POIs) and create a tour out of liked POIs. 
 
@@ -44,7 +44,7 @@ Creating a social network is cost intensive, where the costs for developing the 
 
 ![Billboard1](FAB1png.png)
 
-<p style="font-size:30px; color:#2e8830  " align="left">Stakeholder</p>
+<p style="font-size:30px; color:gold " align="left">Stakeholder</p>
 
 When ideating ideas for the given concept, it is imperative to analyse what and how many stakeholders there are involved. This is important because thinking about stakeholders is **essential for an organization to be effective, accountable, and ethical**. 
 
@@ -63,7 +63,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 <a name="Links"></a><br><br>
 <p align="center"><a href="#Top" style="font-size:12px;">Back to top of page</a></p>
-<p style="font-size:23px; color:#2e8830  " align="left">Links </p>  
+<p style="font-size:23px; color:gold " align="left">Links </p>  
 
 [*Green Mile's* Fold A Bike App](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)*   
 
@@ -75,7 +75,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 * [Customer Journey](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Customer_Journey)  
 * [Storyboard](https://github.com/gxc-challenge-winter21/the-green-mile/wiki/Storyboard)  
 
-<p style="font-size:23px; color:#2e8830  " align="left">Team </p>
+<p style="font-size:23px; color:gold  " align="left">Team </p>
  
 > Alperen Caygoez (Munich HM)  
 > Atila Isa (Munich HM)  
