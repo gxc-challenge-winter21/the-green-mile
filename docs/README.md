@@ -8,7 +8,7 @@ Members of this team are students from the University of Applied Sciences in Mun
 
 ![Billboard2](FAB2png.png)
 
-<p style="font-size:30px; color:Gold " align="left">What is Green Mile's Fold A Bike?</p>
+<p style="font-size:30px; color:#79c46d  " align="left">What is Green Mile's Fold A Bike?</p>
 
 [*Green Mile's* Fold A Bike App*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain) introduces the new and innovative way of traveling and adventuring for your leisure trip by getting rid of troublesome obstacles, that would usually slow down or stop your tour and travel experience. By making use of the flexibility and comfortability of the folding bike technology you can take your adventures to the next level.
 
@@ -28,7 +28,7 @@ _[Fold A Bike*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-b
 
 ![Logo!](Logo_trans.jpg)
 
-<p style="font-size:30px; color:Gold " align="left">Unique Selling Point</p>
+<p style="font-size:30px; color:#79c46d  " align="left">Unique Selling Point</p>
 
 A feature the [app*](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)  contains is supposed to give you a further unique attraction and is only indicated but can quickly grow into a whole project itself. The idea is to provide tourists with special kind of a travelguide app. This guide allows you to swipe (like/dislike) on Point-of-Interests (POIs) and create a tour out of liked POIs. 
 
@@ -45,7 +45,7 @@ Creating a social network is cost intensive, where the costs for developing the 
 
 ![Billboard1](FAB1png.png)
 
-<p style="font-size:30px; color:Gold " align="left">Stakeholder</p>
+<p style="font-size:30px; color:#79c46d  " align="left">Stakeholder</p>
 
 When ideating ideas for the given concept, it is imperative to analyse what and how many stakeholders there are involved. This is important because thinking about stakeholders is **essential for an organization to be effective, accountable, and ethical**. 
 
@@ -74,7 +74,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 [Final Presentation](https://prezi.com/view/jzAOVwa7AzMY6xzARMBy/)
 <br><br><br> 
-<p style="font-size:23px; color:Gold " align="left">Team </p>
+<p style="font-size:23px; color:#79c46d  " align="left">Team </p>
  
 > Alperen Caygoez (Munich HM)  
 > Atila Isa (Munich HM)  
@@ -86,7 +86,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 [<sub>Top Of Page</sub>]()
 <a href="#top" style="font-size:10px;" align="center">Back to top of page</a>
-<p style="font-size:8px; color:DarkSlateGray " align="right">*graphical prototype</p>
+<p style="font-size:8px; color:#79c46d  " align="right">*graphical prototype</p>
   
   
  
