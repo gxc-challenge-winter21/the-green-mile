@@ -97,18 +97,31 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 </p>
  
- <p align="right" font-size=6>
+ <p align="right" font-size=6pt>
 
  <sub>*graphical prototype</sub> 
 
 </p>
 
-<p align="right" font-size=12>
+<p align="right" font-size=12pt>
 
  <sub>*graphical prototype</sub> 
 
 </p>
   
+</p>
+ 
+ <p align="right" font-size=6px>
+
+ <sub>*graphical prototype</sub> 
+
+</p>
+
+<p align="right" font-size=12px>
+
+ <sub>*graphical prototype</sub> 
+
+</p>
   
   
  
