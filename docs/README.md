@@ -1,3 +1,4 @@
+<a name="top"></a>
 ![WelcomeIMG](Welcome.png)
 
 Welcome to the _[Green Mile's - Fold a Bike](https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&starting-point-node-id=10%3A395&scaling=contain)_ GitHub-Page!  
@@ -84,7 +85,7 @@ In the following diagram you can see an analysis of stakeholders connected to th
 
 
 [<sub>Top Of Page</sub>]()
-[<p style="font-size:10px;" align="center">Top Of Page</p>]()
+<a href="#top" style="font-size:10px;" align="center">Back to top of page</a>
 <p style="font-size:8px; color:DarkSlateGray " align="right">*graphical prototype</p>
   
   
