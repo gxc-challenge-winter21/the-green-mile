@@ -83,7 +83,6 @@ In the following diagram you can see an analysis of stakeholders connected to th
 > Thomas Metzker (Munich HM)  
 
 <p align="center"><a href="https://gxc-challenge-winter21.github.io/the-green-mile/" style="font-size:10px;">Back to top of page</a></p>
-
 <p style="font-size:8px; color:#79c46d  " align="right">*graphical prototype</p>
   
   
