@@ -1,7 +1,7 @@
 ![Welcome](https://github.com/gxc-challenge-winter21/the-green-mile/blob/main/Images/Logos/Welcome.png)
 ***
 <p align="center" font-size=728px>  
-  <b><a href="https://www.figma.com/file/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=0%3A1">
+  <b><a href="https://www.figma.com/proto/RwAh6luudybkP21LzhrzzH/Fold-a-Bike-by-Green-Mile-(Version-2)?node-id=10%3A395&scaling=scale-down&page-id=0%3A1&starting-point-node-id=10%3A395">
     Interactive Prototype</a> |
   <a href="https://gxc-challenge-winter21.github.io/the-green-mile/">GitHub-Page</a> |
   <a href="https://prezi.com/view/jzAOVwa7AzMY6xzARMBy/">Presentation</a> |
